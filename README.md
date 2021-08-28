@@ -5,14 +5,14 @@ See: https://github.com/go-logr/logr
 
 ## Installation
 
-  go get -u https://github.com/dtomasi/fakr
-  
+    go get -u https://github.com/dtomasi/fakr
+
 ## Usage
 
+```go
 import (
-  "github.com/dtomasi/fakr"
+    "github.com/dtomasi/fakr"
 )
 
-```go
 logger := fakr.New()
 ```
