@@ -5,7 +5,7 @@ See: https://github.com/go-logr/logr
 
 ## Installation
 
-    go get -u https://github.com/dtomasi/fakr
+    go get -u github.com/dtomasi/fakr
 
 ## Usage
 
